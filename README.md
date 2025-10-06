@@ -52,6 +52,12 @@ For more information, see [License.txt](License.txt).
 
 ---
 
+## Créditos / Credits
+
+Carlos Bueno-Blanco (Desarrollador principal / Main developer)
+Simon Svatek and Elisa Antolín (Ideas del modelo matemático / Ideas about mathematical model)
+
+---
 ## Apoya al creador / Support the developer
 
 
