@@ -1,0 +1,40 @@
+Software: TransferMatrixCalculatorCBB
+Autor: Carlos Bueno Blanco
+Versión: [v1.0 – 2025]
+Contacto LinkedIn: https://www.linkedin.com/in/carlos-bueno-blanco-b9716512b/
+
+Referencias: Emanuele Centurioni, "Generalized matrix method for calculation of internal light energy flux in mixed coherent and incoherent multilayers," Appl. Opt. 44, 7532-7539 (2005)
+
+Español:
+Este software está licenciado bajo una
+Creative Commons Atribución–Sin Derivadas 4.0 Internacional (CC BY-ND 4.0).
+
+Usted es libre de:
+- Usar, copiar y redistribuir este software para cualquier propósito, incluso comercialmente.
+
+Bajo las siguientes condiciones:
+- Debe dar crédito al autor original.
+- No puede modificar, transformar ni crear versiones derivadas de este software.
+- No puede redistribuir versiones alteradas.
+
+Para más información, consulte el texto completo de la licencia en:
+https://creativecommons.org/licenses/by-nd/4.0/
+
+English:
+This software is licensed under a Creative Commons Attribution–NoDerivatives 4.0 International License.
+
+You are free to:
+- Use, copy, and redistribute this software in any medium or format, for any purpose, even commercially.
+
+Under the following terms:
+- Attribution — You must give appropriate credit to the original author, provide a link to this license, and indicate if changes were made.  
+  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
+- No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Disclaimer:
+This software is provided “as is”, without any warranties or guarantees, express or implied, including but not limited to merchantability or fitness for a particular purpose.
+
+For the full license text, see:
+https://creativecommons.org/licenses/by-nd/4.0/
+

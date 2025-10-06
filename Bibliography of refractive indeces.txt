@@ -1,0 +1,33 @@
+Bibliography of refractive indeces
+
+Ag: P. B. Johnson and R. W. Christy. Optical constants of the noble metals. Phys. Rev. B 6, 4370-4379 (1972)
+Al: A. D. Rakić. Algorithm for the determination of intrinsic optical constants of metal films: application to aluminum. Appl. Opt. 34, 4755-4767 (1995)
+Al2O3: I. H. Malitson, "Refraction and Dispersion of Synthetic Sapphire," JOSA 52(12), 1377–1379 (1962).
+AlGaAs: S. Adachi. Optical dispersion relations for GaP, GaAs, GaSb, InP, InAs, InSb, AlxGa1−xAs, and In1−xGaxAsyP1−y. J. Appl. Phys. 66, 6030-6040 (1989)
+BN: G. Cappellini, G. Satta, M. Palummo, and G. Onida, “Optical properties of BN in cubic and layered hexagonal
+phases,” Phys. Rev. B 64(3), 035104 (2001).
+CdS: R. E. Treharne, A. Seymour-Pierce, K. Durose, K. Hutchings, S. Roncallo, D. Lane. Optical design and fabrication of fully sputtered CdTe/CdS solar cells. J. Phys: Conf. Ser. 286, 012038, (2011)
+CdTe: R.E. Treharne, A. Seymour-Pierce, K. Durose, K. Hutchings, S. Roncallo, D. Lane, Optical design and fabrication of fully sputtered CdTe/CdS solar cells, J. Phys.: Conf. Ser. 286 (2011) 012038.
+CIGS: Gloeckler, J.R. Sites, Band-gap grading in Cu(In,Ga)Se2 solar cells, J. Phys. Chem. Solids 66 (2005) 1891–1894
+Clear glass: M. Rubin, Optical properties of soda lime silica glasses, Sol. Energy Mater. 12 (1985) 275–288
+Cu: P. B. Johnson and R. W. Christy. Optical constants of the noble metals. Phys. Rev. B 6, 4370-4379 (1972)
+EVA:M. R. Vogt, H. Schulte-Huxel, D. Hinken, H. Holst, M. Winter, S. Blankemeyer, R. Witteck, M. Köntges, K. Bothe, R. Brendel. Optical constants of UV transparent EVA and the impact on the PV module output power under realistic illumination. Energy Procedia 92, 523-530 (2016)
+GaAS: K. Papatryfonos, T. Angelova, A. Brimont, B. Reid, S. Guldin, P. R. Smith, M. Tang, K. Li, A. J. Seeds, H. Liu, D. R. Selviah. Refractive indices of MBE-grown AlxGa1-xAs ternary alloys in the transparent wavelength region. AIP Adv. 11, 025327 (2021)
+GaInP: M. Schubert, V. Gottschalch, C. M. Herzinger, H. Yao, P. G. Snyder, J. A. Woollam. Optical constants of GaxIn1−xP lattice matched to GaAs. J. Appl. Phys. 77, 3416 (1995)
+Ge: D. E. Aspnes and A. A. Studna. Dielectric functions and optical parameters of Si, Ge, GaP, GaAs, GaSb, InP, InAs, and InSb from 1.5 to 6.0 eV. Phys. Rev. B 27, 985-1009 (1983)
+Low iron glass: M. Rubin, Optical properties of soda lime silica glasses, Sol. Energy Mater. 12 (1985) 275–288
+MAPI: L.J. Phillips, A.M. Rashed, R.E. Treharne, J. Kay, P. Yates, I.Z. Mitrovic, A. Weerakkody, S. Hall, K. Durose, Dispersion relation data for methylammonium lead triiodide perovskite deposited on a (100) silicon wafer using a two-step
+vapour-phase reaction process, Data Brief. 5 (2015) 926–928.
+MgF2: H. H. Li. Refractive index of alkaline earth halides and its wavelength and temperature derivatives. J. Phys. Chem. Ref. Data 9, 161-289 (1980) and references therein.
+Mo: W. S. M. Werner, K. Glantschnig, C. Ambrosch-Draxl. Optical constants and inelastic electron-scattering data for 17 elemental metals. J. Phys Chem Ref. Data 38, 1013-1092 (2009)
+MoS2:G.A. Ermolaev, D.V. Grudinin, Y.V. Stebunov, K.V. Voronin, V.G. Kravets, J. Duan, A.B. Mazitov, G.I. Tselikov, A. Bylinkin, D.I. Yakubovsky, S.M. Novikov, D. G. Baranov, A.Y. Nikitin, I.A. Kruglov, T. Shegai, P. Alonso-Gonzalez, ´ A. N. Grigorenko, A.V. Arsenin, K.S. Novoselov, V.S. Volkov, Giant optical anisotropy in transition metal dichalcogenides for next-generation photonics, Nat. Commun. 12 (2021) 854.
+InAs: D. E. Aspnes and A. A. Studna. Dielectric functions and optical parameters of Si, Ge, GaP, GaAs, GaSb, InP, InAs, and InSb from 1.5 to 6.0 eV. Phys. Rev. B 27, 985-1009 (1983)
+ITO: T. A. F. König, P. A. Ledin, J. Kerszulis, M. A. Mahmoud, M. A. El-Sayed, J. R. Reynolds, V. V. Tsukruk. Electrically tunable plasmonic behavior of nanocube-polymer nanomaterials induced by a redox-active electrochromic polymer. ACS Nano 8, 6182-6192 (2014)
+Si: D.E. Aspnes, A.A. Studna, Dielectric functions and optical parameters of Si, Ge, GaP, GaAs, GaSb, InP, InAs, and InSb from 1.5 to 6.0 eV, Phys. Rev. B 27 (1983) 985–1009,
+SiO2: I. H. Malitson, "Interspecimen Comparison of the Refractive Index of Fused Silica," JOSA 55(10), 1205–1209
+(1965).
+Si3N4: H. R. Philipp. Optical properties of silicon nitride. J. Electrochim. Soc. 120, 295-300 (1973)
+TiO2: W. L. Bond. Measurement of the refractive indices of several crystals. J. Appl. Phys. 36, 1674-1677 (1965)
+ZnO: W. L. Bond. Measurement of the refractive indices of several crystals. J. Appl. Phys. 36, 1674-1677 (1965)
+ZnS: M. R. Querry. Optical constants of minerals and other materials from the millimeter to the ultraviolet, Contractor Report CRDEC-CR-88009 (1987)
+ 
