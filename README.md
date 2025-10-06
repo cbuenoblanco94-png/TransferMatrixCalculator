@@ -14,11 +14,13 @@ This repository contains the **executable** of the MATLAB application “Transfe
 1. Descarga el archivo `TransferMatrixApp.exe`.
 2. Ejecuta el archivo haciendo doble clic.
 3. La aplicación cargará automáticamente los archivos `.txt` necesarios incluidos en el ejecutable.
+4. Cualquier error de ejecución o sugerencia, por favor reportarla en la ventana de Issues
  
  Eng:
 1. Download the `TransferMatrixApp.exe` file.
 2. Run the file by double-clicking it.
 3. The application will automatically load the required `.txt` data files embedded in the executable.
+4. Any execution error or suggestion, please report them in Issues
 
 ---
 
