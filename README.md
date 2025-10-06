@@ -47,3 +47,9 @@ You may use, copy, and share it, but **you may not distribute modified versions*
 Para más información, consulta el archivo [License.txt](License.txt).  
 For more information, see [License.txt](License.txt).
 
+---
+
+## Apoya al creador / Support the developer
+
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue)](https://www.paypal.me/CBblancodeveloper)
