@@ -44,6 +44,6 @@ Puedes usarlo, copiarlo y compartirlo, pero **no modificarlo**.
 This program is licensed under the **Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0)**.  
 You may use, copy, and share it, but **you may not distribute modified versions**.
 
-Para más información, consulta el archivo [LICENSE.txt](LICENSE.txt).  
-For more information, see [LICENSE.txt](LICENSE.txt).
+Para más información, consulta el archivo [License.txt](License.txt).  
+For more information, see [License.txt](License.txt).
 
