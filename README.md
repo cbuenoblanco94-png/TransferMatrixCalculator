@@ -5,7 +5,11 @@ Transfermatrixcalculator for multilayered structures. Disponible para MATLAB R20
 
 Este repositorio contiene el **ejecutable** de la aplicación MATLAB “Transfer Matrix Calculator”, que permite realizar cálculos ópticos usando archivos de datos incluidos en el programa.
 
+En Releases está disponible el **ejecutable** programado en Python que funciona directamente.
+
 This repository contains the **executable** of the MATLAB application “Transfer Matrix Calculator”, which allows optical calculations using data files embedded in the program.
+
+At Releases it is available the **executable** programmed in Python which works directly.
 
 ---
 
