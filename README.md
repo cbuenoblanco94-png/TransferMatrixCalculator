@@ -1,5 +1,5 @@
 # TransferMatrixCalculator
-Transfermatrixcalculator for multilayered structures. Requires MATLAB R2024
+Transfermatrixcalculator for multilayered structures. Disponible para MATLAB R2024 y directamente en forma de ejecutable.
 
 # Transfer Matrix Calculator / Calculadora de Matriz de Transferencia
 
@@ -11,13 +11,13 @@ This repository contains the **executable** of the MATLAB application “Transfe
 
 ## Cómo usar / How to use
   Esp:
-1. Descarga el archivo `TransferMatrixApp.exe`.
+1. Descarga el archivo `TransferMatrixApp.exe` para MATLAB o 'Transfermatrixv3.exe' en la pestaña de "releases".
 2. Ejecuta el archivo haciendo doble clic.
 3. La aplicación cargará automáticamente los archivos `.txt` necesarios incluidos en el ejecutable.
 4. Cualquier error de ejecución o sugerencia, por favor reportarla en la ventana de Issues
  
  Eng:
-1. Download the `TransferMatrixApp.exe` file.
+1. Download the `TransferMatrixApp.exe` file or 'Transfermatrixv3.exe' available at "releases".
 2. Run the file by double-clicking it.
 3. The application will automatically load the required `.txt` data files embedded in the executable.
 4. Any execution error or suggestion, please report them in Issues
@@ -36,6 +36,7 @@ This repository contains the **executable** of the MATLAB application “Transfe
 
 - No es necesario tener MATLAB instalado / No MATLAB installation required.
 - El MATLAB Runtime no es necesario, ya que el `.exe` es autónomo / MATLAB Runtime is not required, the `.exe` is self-contained.
+- Transfermatrixv3.exe no necesita programas adicionales/ Tansfermatrixv3.exe does not require further programs
 
 ---
 
