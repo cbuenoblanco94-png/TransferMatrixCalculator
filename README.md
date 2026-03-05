@@ -67,4 +67,4 @@ Simon Svatek and Elisa Antolín (Ideas del modelo matemático / Ideas about math
 ## Apoya al creador / Support the developer
 
 
-[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue)](https://www.paypal.me/CBblancodeveloper)
+
