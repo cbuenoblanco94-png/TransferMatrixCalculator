@@ -15,13 +15,13 @@ At Releases it is available the **executable** programmed in Python which works 
 
 ## Cómo usar / How to use
   Esp:
-1. Descarga el archivo `TransferMatrixApp.exe` para MATLAB o 'Transfermatrixv3.exe' en la pestaña de "releases".
+1. Descarga el archivo `TransferMatrixApp.exe` para MATLAB o 'TransferMatrixv1.1.exe' en la pestaña de "releases".
 2. Ejecuta el archivo haciendo doble clic.
 3. La aplicación cargará automáticamente los archivos `.txt` necesarios incluidos en el ejecutable.
 4. Cualquier error de ejecución o sugerencia, por favor reportarla en la ventana de Issues
  
  Eng:
-1. Download the `TransferMatrixApp.exe` file or 'Transfermatrixv3.exe' available at "releases".
+1. Download the `TransferMatrixApp.exe` file or 'TransferMatrixv1.1.exe' available at "releases".
 2. Run the file by double-clicking it.
 3. The application will automatically load the required `.txt` data files embedded in the executable.
 4. Any execution error or suggestion, please report them in Issues
@@ -31,7 +31,7 @@ At Releases it is available the **executable** programmed in Python which works 
 ## Archivos incluidos / Files included
 
 - `TransferMatrixCBB_web.exe` — ejecutable de la aplicación MATLAB / MATLAB executable file
-- `Transfermatrixv3.exe`— ejecutable de la aplicación en Python / Python executable file
+- `TransferMatrixv1.1.exe`— ejecutable de la aplicación en Python / Python executable file
 - `License.txt` — licencia del programa / program license
 - `README.md` — instrucciones y descripción / instructions and description
 
